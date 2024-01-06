@@ -8,7 +8,8 @@ int main(){
     testArray[2] = 3;
     testArray[3] = 67;
 
-    cout << testArray[0] << " " << testArray[1] << " " << testArray[2] << endl;
+    cout << testArray[0] << " " << testArray[1] << " " << testArray[2] << " " << testArray[3] 
+    << endl;
     
 
 }
